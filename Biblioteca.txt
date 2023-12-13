@@ -1,1 +1,28 @@
-Biblioteca
+En BookTube, estamos más allá de las estanterías repletas de libros; somos un refugio para mentes curiosas, una comunidad de amantes de la lectura y un faro cultural en República Dominicana. Desde nuestro comienzo en 2004, nos hemos dedicado a fomentar el amor por la lectura y a crear un espacio donde las historias cobran vida.
+
+.main-content .list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+Bienvenido a nuestra librería online y descubre un mundo de historias fascinantes. En nuestra colección, encontrarás una amplia variedad de libros que te transportarán a lugares inexplorados y te sumergirán en emocionantes aventuras. Explora nuestro catálogo y deja que la magia de las palabras te envuelva. ¡Encuentra tu próxima lectura favorita hoy mismo!
+<div class="about-list">
+                    <h3>Disfruta nuestras categorías de libros!</h3>
+                    <div class="list">
+                        <ul>
+                            <li>Ciencia</li>
+                            <li>Autoayuda</li>
+                            <li>Arte </li>
+                        </ul>
+                        <ul>
+                            <li>Gastronomía</li>
+                            <li>Infantil</li>
+                            <li>Juvenil</li>
+                        </ul>
+                        <ul>
+                            <li>Tecnología</li>
+                            <li>Ficción</li>
+                            <li>Terror</li>
+                        </ul>
+                    </div>
+                </div>
